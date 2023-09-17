@@ -17,3 +17,8 @@ Mình đã thử nghiệm app  ở lớp chuyên đề AI do trường m
 Phần mềm nó sẽ khá phù hợp ở những lớp học, trung tâm dạy học,...nơi mà giáo viên muốn quản lí học sinh.  
 Mình đang đợi báo cáo nữa nên chưa public được phần mềm. Mn ai cảm thấy hứng thú hoặc muốn thử thì có thể ib vs mk trước nha.  
 Cám ơn mọi người đã đọc và lắng nghe bài viết he!!! ^^  
+
+
+![demo](https://github.com/namkuner/Student-Attendance-Public/assets/91741730/ad944732-f17f-451e-85f7-395c993a4024)
+[POSTER-PHAM_DINH_NAM.pptx](https://github.com/namkuner/Student-Attendance-Public/files/12643118/POSTER-PHAM_DINH_NAM.1.pptx)
+
