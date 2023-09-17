@@ -19,6 +19,6 @@ Mình đang đợi báo cáo nữa nên chưa public được phần mê�
 Cám ơn mọi người đã đọc và lắng nghe bài viết he!!! ^^  
 
 
-![demo](https://github.com/namkuner/Student-Attendance-Public/assets/91741730/ad944732-f17f-451e-85f7-395c993a4024)
-[POSTER-PHAM_DINH_NAM.pptx](https://github.com/namkuner/Student-Attendance-Public/files/12643118/POSTER-PHAM_DINH_NAM.1.pptx)
+![Link demo](https://github.com/namkuner/Student-Attendance-Public/assets/91741730/ad944732-f17f-451e-85f7-395c993a4024)
+[Link poster](https://github.com/namkuner/Student-Attendance-Public/files/12643118/POSTER-PHAM_DINH_NAM.1.pptx)
 
