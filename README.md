@@ -1,7 +1,9 @@
 # Student-Attendance-Public
+* Link demo https://github.com/namkuner/Student-Attendance-Public/assets/91741730/ad944732-f17f-451e-85f7-395c993a4024
 * Link hướng dẫn sử dụng: https://www.youtube.com/watch?v=Gz43lrdEPEk
 * Chi tiết về thử nghiệm ở lớp chuyên đề AI : https://youtu.be/19nsK-TeHzw
 * Link thử nghiệm ở lớp chuyên đề AI : https://youtu.be/QMc43knlL_Q
+* Source code https://github.com/namkuner/Student_Attendance.git
 # Link download cài đặt https://drive.google.com/file/d/1KXzdPSi0JuuI-WpjziLvGTwqjGK138yA/view?usp=sharing
 # Giới thiệu sản phẩm 
 
